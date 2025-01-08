@@ -46,10 +46,10 @@
    margin: 10px 0px 20px 0px;
 }
 
-.subhead a {
+a {
    color: black !important;
 }
-.subhead a:visited {
+a:visited {
    color: black !important;
 }
 

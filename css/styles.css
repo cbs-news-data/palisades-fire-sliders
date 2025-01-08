@@ -41,6 +41,13 @@
    margin: 10px 0px 20px 0px;
 }
 
+a {
+   color: black !important;
+}
+a:visited {
+   color: black !important;
+}
+
 .source {
    font-family: proxima-nova, sans-serif;
    font-size: 14px;

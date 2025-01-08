@@ -19,6 +19,9 @@ $(document).ready(function(){ // begin document.ready block
         //     clickMove: true
 		// });
 
+	var height_of_container = $(".container").height();
+	console.log(height_of_container)
+
 
 	var pymChild = new pym.Child({ polling: 500 });
     	pymChild.sendHeight();

@@ -1,0 +1,75 @@
+/* styles.css*/
+
+/*main css*/
+
+@font-face {
+   font-family: 'PublicoHeadline'; /* Name your font family */
+   src: url('../Fonts/PublicoHeadline-Black-05.woff'); /* Locate the .ttf file within your directory*/
+ }
+
+ @font-face {
+   font-family: 'PublicoText'; /* Name your font family */
+   src: url('../Fonts/PublicoText-Roman.otf'); /* Locate the .ttf file within your directory*/
+ } 
+
+
+* {
+   box-sizing: border-box;
+}
+
+.container {
+   max-width: 463px;
+}
+
+.beforeimagetest {
+   font-family: proxima-nova, sans-serif;
+   font-size: 15px !important;
+   height: 0px !important;
+   padding-bottom: 140% !important;
+}
+
+.title {
+   font-family: 'PublicoHeadline';
+   font-size: 1.6rem;
+   font-weight: 900;
+   margin: 0px;
+}
+
+.subhed {
+   font-family: proxima-nova, sans-serif;
+   font-size: 16px;
+   margin: 10px 0px 20px 0px;
+}
+
+.source {
+   font-family: proxima-nova, sans-serif;
+   font-size: 14px;
+   margin: 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+/*media query for responsive design */
+
+@media only screen and (max-width: 640px) {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+

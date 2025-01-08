@@ -18,7 +18,12 @@
 }
 
 .container {
+   max-width: 980px;
+}
+
+.beforeafter_containers {
    max-width: 463px;
+   margin: auto;
 }
 
 .beforeimagetest {
@@ -41,10 +46,10 @@
    margin: 10px 0px 20px 0px;
 }
 
-a {
+.subhead a {
    color: black !important;
 }
-a:visited {
+.subhead a:visited {
    color: black !important;
 }
 
